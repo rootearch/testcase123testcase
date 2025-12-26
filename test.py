@@ -3,3 +3,8 @@ rootearch
 SLACK_BOT_TOKEN=
 
 STRIPE_SECRET_TEST_KEY=sk_live_9f3c7d2a8b4e6f1a5c9d7e2b8f4a6c1e
+
+testtoken
+
+aws_test_access_key_id = AKIA34BAGDIHTV5BO7P3
+aws_secret_test_access_key = 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
